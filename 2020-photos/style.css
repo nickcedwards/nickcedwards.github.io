@@ -1,0 +1,33 @@
+body {
+    background-color: black;
+    color: #F1F2F1;
+    Font-Family: 'Muli', Sans-Serif;
+}
+
+h1, h2, h3 {
+    Font-Family: 'Merriweather', Serif;
+    color: #6C698D;
+}
+
+h1 {
+    padding-top: 2rem;
+    font-size: 3.5rem;
+}
+
+h2 {
+    padding-top: 2rem;
+    padding-bottom: 1rem;
+}
+
+h3 {
+    padding-top: 2rem;
+    padding-bottom: 1rem;
+}
+
+.img-custom {
+}
+
+.figure-caption-custom {
+    color: #DFE2DF;
+    font-style: italic;
+}
